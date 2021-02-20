@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Devops first time 
+          change setsing check git status 
         </a>
       </header>
     </div>
